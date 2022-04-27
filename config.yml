@@ -1,0 +1,31 @@
+baseURL: "https://beytan.net/"
+languageCode: "tr-tr"
+title: "beytan.net"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+
+params:
+  env: production
+  homeInfoParams:
+      Title: beytan.net
+      Content: personal blog for me, myself and my lack of memory
+
+  socialIcons:
+      - name: twitter
+        url: "https://twitter.com/239826"
+      - name: github
+        url: "https://github.com/beyti"
+
+menu:
+  main:
+    - name: Tags
+      url: tags/
+      weight: 10
+    - name: Categories
+      url: categories/
+      weight: 10
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
