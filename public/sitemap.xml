@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://beytan.net/</loc>
+    <loc>https://www.beytan.net/</loc>
     <lastmod>2022-04-27T03:40:48+03:00</lastmod>
   </url><url>
-    <loc>https://beytan.net/posts/initial/</loc>
+    <loc>https://www.beytan.net/posts/initial/</loc>
     <lastmod>2022-04-27T03:40:48+03:00</lastmod>
   </url><url>
-    <loc>https://beytan.net/posts/</loc>
+    <loc>https://www.beytan.net/posts/</loc>
     <lastmod>2022-04-27T03:40:48+03:00</lastmod>
   </url><url>
-    <loc>https://beytan.net/categories/</loc>
+    <loc>https://www.beytan.net/categories/</loc>
   </url><url>
-    <loc>https://beytan.net/tags/</loc>
+    <loc>https://www.beytan.net/tags/</loc>
   </url>
 </urlset>

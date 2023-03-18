@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on beytan.net</title>
-    <link>https://beytan.net/posts/</link>
+    <link>https://www.beytan.net/posts/</link>
     <description>Recent content in Posts on beytan.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Wed, 27 Apr 2022 03:40:48 +0300</lastBuildDate><atom:link href="https://beytan.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 03:40:48 +0300</lastBuildDate><atom:link href="https://www.beytan.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Initial</title>
-      <link>https://beytan.net/posts/initial/</link>
+      <link>https://www.beytan.net/posts/initial/</link>
       <pubDate>Wed, 27 Apr 2022 03:40:48 +0300</pubDate>
       
-      <guid>https://beytan.net/posts/initial/</guid>
+      <guid>https://www.beytan.net/posts/initial/</guid>
       <description>hello darkness my old friend
 I&amp;rsquo;ve come to talk to you again</description>
     </item>
