@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Desktop Pc Setup | beytan.net</title>
+<meta name="keywords" content="">
+<meta name="description" content="Tools to install: Avira Antivir AutoHotKey 7Zip 1Password Ditto Google Drive Dropbox VSCode Spotify Winamp Discord Git Firefox Chrome Greenshot (Screenshot tool) Notion GameManagers (Steam, Origin, AmazonGames, Epic, UPlay) GameSaveManager (To restore local saved games) Some media player (Potplayer, VLC, should decide) Torrent tool (qBittorrent, should decide) Slack WinDirStat Restic Backup VPN (Surfshark, NordVPN) Drivers, runtimes to install: NVidia GeForce Java runtime Razr keyboard, mouse drivers Steelseries arctis 7 driver Steps before re-installing Windows Manually trigger last restic backup Sync Drives (Firefox account, Google Drive, Dropbox) Manually copy media folders to a backup location /Users/&lt;user&gt;Documents /Users/&lt;user&gt;Pictures /Users/&lt;user&gt;Desktop /Users/&lt;user&gt;Downloads Manually take screenshots of Dota Settings screens Backup saved games through GameSave-Manager Backup Steam games to a Library folder on another disk if it&rsquo;s in C: Push git folders Prepare Windows installation USB using Installation Media Creation Tool ">
+<meta name="author" content="">
+<link rel="canonical" href="https://www.beytan.net/posts/desktop-pc-setup/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.b4e19c453811e60acfec1f00c15ac2be1c53f6ab90187e684358ce7faaf48bab.css" integrity="sha256-tOGcRTgR5grP7B8AwVrCvhxT9quQGH5oQ1jOf6r0i6s=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://www.beytan.net/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.beytan.net/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.beytan.net/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://www.beytan.net/apple-touch-icon.png">
+<link rel="mask-icon" href="https://www.beytan.net/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Desktop Pc Setup" />
+<meta property="og:description" content="Tools to install: Avira Antivir AutoHotKey 7Zip 1Password Ditto Google Drive Dropbox VSCode Spotify Winamp Discord Git Firefox Chrome Greenshot (Screenshot tool) Notion GameManagers (Steam, Origin, AmazonGames, Epic, UPlay) GameSaveManager (To restore local saved games) Some media player (Potplayer, VLC, should decide) Torrent tool (qBittorrent, should decide) Slack WinDirStat Restic Backup VPN (Surfshark, NordVPN) Drivers, runtimes to install: NVidia GeForce Java runtime Razr keyboard, mouse drivers Steelseries arctis 7 driver Steps before re-installing Windows Manually trigger last restic backup Sync Drives (Firefox account, Google Drive, Dropbox) Manually copy media folders to a backup location /Users/&lt;user&gt;Documents /Users/&lt;user&gt;Pictures /Users/&lt;user&gt;Desktop /Users/&lt;user&gt;Downloads Manually take screenshots of Dota Settings screens Backup saved games through GameSave-Manager Backup Steam games to a Library folder on another disk if it&rsquo;s in C: Push git folders Prepare Windows installation USB using Installation Media Creation Tool " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.beytan.net/posts/desktop-pc-setup/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-03-18T21:10:32&#43;03:00" />
+<meta property="article:modified_time" content="2023-03-18T21:10:32&#43;03:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Desktop Pc Setup"/>
+<meta name="twitter:description" content="Tools to install: Avira Antivir AutoHotKey 7Zip 1Password Ditto Google Drive Dropbox VSCode Spotify Winamp Discord Git Firefox Chrome Greenshot (Screenshot tool) Notion GameManagers (Steam, Origin, AmazonGames, Epic, UPlay) GameSaveManager (To restore local saved games) Some media player (Potplayer, VLC, should decide) Torrent tool (qBittorrent, should decide) Slack WinDirStat Restic Backup VPN (Surfshark, NordVPN) Drivers, runtimes to install: NVidia GeForce Java runtime Razr keyboard, mouse drivers Steelseries arctis 7 driver Steps before re-installing Windows Manually trigger last restic backup Sync Drives (Firefox account, Google Drive, Dropbox) Manually copy media folders to a backup location /Users/&lt;user&gt;Documents /Users/&lt;user&gt;Pictures /Users/&lt;user&gt;Desktop /Users/&lt;user&gt;Downloads Manually take screenshots of Dota Settings screens Backup saved games through GameSave-Manager Backup Steam games to a Library folder on another disk if it&rsquo;s in C: Push git folders Prepare Windows installation USB using Installation Media Creation Tool "/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Posts",
+      "item": "https://www.beytan.net/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  3 ,
+      "name": "Desktop Pc Setup",
+      "item": "https://www.beytan.net/posts/desktop-pc-setup/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Desktop Pc Setup",
+  "name": "Desktop Pc Setup",
+  "description": "Tools to install: Avira Antivir AutoHotKey 7Zip 1Password Ditto Google Drive Dropbox VSCode Spotify Winamp Discord Git Firefox Chrome Greenshot (Screenshot tool) Notion GameManagers (Steam, Origin, AmazonGames, Epic, UPlay) GameSaveManager (To restore local saved games) Some media player (Potplayer, VLC, should decide) Torrent tool (qBittorrent, should decide) Slack WinDirStat Restic Backup VPN (Surfshark, NordVPN) Drivers, runtimes to install: NVidia GeForce Java runtime Razr keyboard, mouse drivers Steelseries arctis 7 driver Steps before re-installing Windows Manually trigger last restic backup Sync Drives (Firefox account, Google Drive, Dropbox) Manually copy media folders to a backup location /Users/\u0026lt;user\u0026gt;Documents /Users/\u0026lt;user\u0026gt;Pictures /Users/\u0026lt;user\u0026gt;Desktop /Users/\u0026lt;user\u0026gt;Downloads Manually take screenshots of Dota Settings screens Backup saved games through GameSave-Manager Backup Steam games to a Library folder on another disk if it\u0026rsquo;s in C: Push git folders Prepare Windows installation USB using Installation Media Creation Tool ",
+  "keywords": [
+    
+  ],
+  "articleBody": "Tools to install: Avira Antivir AutoHotKey 7Zip 1Password Ditto Google Drive Dropbox VSCode Spotify Winamp Discord Git Firefox Chrome Greenshot (Screenshot tool) Notion GameManagers (Steam, Origin, AmazonGames, Epic, UPlay) GameSaveManager (To restore local saved games) Some media player (Potplayer, VLC, should decide) Torrent tool (qBittorrent, should decide) Slack WinDirStat Restic Backup VPN (Surfshark, NordVPN) Drivers, runtimes to install: NVidia GeForce Java runtime Razr keyboard, mouse drivers Steelseries arctis 7 driver Steps before re-installing Windows Manually trigger last restic backup Sync Drives (Firefox account, Google Drive, Dropbox) Manually copy media folders to a backup location /Users/Documents /Users/Pictures /Users/Desktop /Users/Downloads Manually take screenshots of Dota Settings screens Backup saved games through GameSave-Manager Backup Steam games to a Library folder on another disk if it’s in C: Push git folders Prepare Windows installation USB using Installation Media Creation Tool ",
+  "wordCount" : "136",
+  "inLanguage": "en",
+  "datePublished": "2023-03-18T21:10:32+03:00",
+  "dateModified": "2023-03-18T21:10:32+03:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.beytan.net/posts/desktop-pc-setup/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "beytan.net",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.beytan.net/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://www.beytan.net" accesskey="h" title="beytan.net (Alt + H)">beytan.net</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://www.beytan.net/categories/" title="Categories">
+                    <span>Categories</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.beytan.net/posts/" title="posts">
+                    <span>posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.beytan.net/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Desktop Pc Setup
+    </h1>
+    <div class="post-meta"><span title='2023-03-18 21:10:32 +0300 +03'>March 18, 2023</span>
+
+</div>
+  </header> 
+  <div class="post-content"><h1 id="tools-to-install">Tools to install:<a hidden class="anchor" aria-hidden="true" href="#tools-to-install">#</a></h1>
+<ul>
+<li>Avira Antivir</li>
+<li>AutoHotKey</li>
+<li>7Zip</li>
+<li>1Password</li>
+<li>Ditto</li>
+<li>Google Drive</li>
+<li>Dropbox</li>
+<li>VSCode</li>
+<li>Spotify</li>
+<li>Winamp</li>
+<li>Discord</li>
+<li>Git</li>
+<li>Firefox</li>
+<li>Chrome</li>
+<li>Greenshot (Screenshot tool)</li>
+<li>Notion</li>
+<li>GameManagers (Steam, Origin, AmazonGames, Epic, UPlay)</li>
+<li>GameSaveManager (To restore local saved games)</li>
+<li>Some media player (Potplayer, VLC, should decide)</li>
+<li>Torrent tool (qBittorrent, should decide)</li>
+<li>Slack</li>
+<li>WinDirStat</li>
+<li>Restic Backup</li>
+<li>VPN (Surfshark, NordVPN)</li>
+</ul>
+<h1 id="drivers-runtimes-to-install">Drivers, runtimes to install:<a hidden class="anchor" aria-hidden="true" href="#drivers-runtimes-to-install">#</a></h1>
+<ul>
+<li>NVidia GeForce</li>
+<li>Java runtime</li>
+<li>Razr keyboard, mouse drivers</li>
+<li>Steelseries arctis 7 driver</li>
+</ul>
+<h1 id="steps-before-re-installing-windows">Steps before re-installing Windows<a hidden class="anchor" aria-hidden="true" href="#steps-before-re-installing-windows">#</a></h1>
+<ol>
+<li>Manually trigger last restic backup</li>
+<li>Sync Drives (Firefox account, Google Drive, Dropbox)</li>
+<li>Manually copy media folders to a backup location
+<ol>
+<li>/Users/&lt;user&gt;Documents</li>
+<li>/Users/&lt;user&gt;Pictures</li>
+<li>/Users/&lt;user&gt;Desktop</li>
+<li>/Users/&lt;user&gt;Downloads</li>
+</ol>
+</li>
+<li>Manually take screenshots of Dota Settings screens</li>
+<li>Backup saved games through GameSave-Manager</li>
+<li>Backup Steam games to a Library folder on another disk if it&rsquo;s in C:</li>
+<li>Push git folders</li>
+<li>Prepare Windows installation USB using Installation Media Creation Tool</li>
+</ol>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2023 <a href="https://www.beytan.net">beytan.net</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
