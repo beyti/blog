@@ -19,13 +19,13 @@ params:
 
 menu:
   main:
-    - name: Tags
-      url: tags/
+    - identifier: Posts
+      name: Posts
+      url: /posts/
       weight: 10
     - name: Categories
       url: categories/
-      weight: 10
-    - identifier: posts
-      name: posts
-      url: /posts/
-      weight: 10
+      weight: 20
+    - name: Tags
+      url: tags/
+      weight: 30

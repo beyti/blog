@@ -5,10 +5,16 @@
     <loc>https://www.beytan.net/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
+    <loc>https://www.beytan.net/categories/</loc>
+    <lastmod>2023-09-20T11:00:08+03:00</lastmod>
+  </url><url>
     <loc>https://www.beytan.net/tags/existentialism/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
     <loc>https://www.beytan.net/posts/</loc>
+    <lastmod>2023-09-20T11:00:08+03:00</lastmod>
+  </url><url>
+    <loc>https://www.beytan.net/categories/pysch/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
     <loc>https://www.beytan.net/tags/stutz/</loc>
@@ -22,6 +28,9 @@
   </url><url>
     <loc>https://www.beytan.net/tags/therapy/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
+  </url><url>
+    <loc>https://www.beytan.net/categories/customization/</loc>
+    <lastmod>2023-03-19T15:23:50+03:00</lastmod>
   </url><url>
     <loc>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</loc>
     <lastmod>2023-03-19T15:23:50+03:00</lastmod>
@@ -49,7 +58,5 @@
   </url><url>
     <loc>https://www.beytan.net/posts/initial/</loc>
     <lastmod>2022-04-27T03:40:48+03:00</lastmod>
-  </url><url>
-    <loc>https://www.beytan.net/categories/</loc>
   </url>
 </urlset>

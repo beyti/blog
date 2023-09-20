@@ -3,6 +3,7 @@ title: "Stutz"
 date: 2023-09-20T11:00:08+03:00
 draft: false
 tags: [stutz, existentialism, therapy]
+categories: [pysch]
 ---
 
 # A Netflix movie called Stutz
