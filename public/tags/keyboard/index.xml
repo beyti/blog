@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>keyboard on beytan.net</title>
+    <link>https://www.beytan.net/tags/keyboard/</link>
+    <description>Recent content in keyboard on beytan.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Sun, 19 Mar 2023 15:23:50 +0300</lastBuildDate><atom:link href="https://www.beytan.net/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Delete Additional Keyboard on Windows10</title>
+      <link>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</link>
+      <pubDate>Sun, 19 Mar 2023 15:23:50 +0300</pubDate>
+      
+      <guid>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</guid>
+      <description>Why the need? Why the Keyboard Layout Anyone with a non-english country probably has one or more languages and probably their respective keyboard layouts available to them.
+In Turkey, we have a Turkish-Q keyboard layout and our keyboards are mostly in this layout as hardware.
+Here is a quick glance of how it is, thanks to Microsoft: https://learn.microsoft.com/en-us/globalization/keyboards/kbdtuq.html
+What has changed in Windows10 You used to delete this additional keyboard layout so that it just doesn&amp;rsquo;t switch from one to the other during your usage.</description>
+    </item>
+    
+  </channel>
+</rss>

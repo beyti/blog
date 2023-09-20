@@ -2,6 +2,7 @@
 title: "Delete Additional Keyboard on Windows10"
 date: 2023-03-19T15:23:50+03:00
 draft: false
+tags: [dev, utility, windows, keyboard]
 ---
 
 # Why the need?

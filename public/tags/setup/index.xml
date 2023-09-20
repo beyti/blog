@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>setup on beytan.net</title>
+    <link>https://www.beytan.net/tags/setup/</link>
+    <description>Recent content in setup on beytan.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Sat, 18 Mar 2023 21:10:32 +0300</lastBuildDate><atom:link href="https://www.beytan.net/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desktop Pc Setup</title>
+      <link>https://www.beytan.net/posts/customization/desktop-pc-setup/</link>
+      <pubDate>Sat, 18 Mar 2023 21:10:32 +0300</pubDate>
+      
+      <guid>https://www.beytan.net/posts/customization/desktop-pc-setup/</guid>
+      <description>Tools to install: Avira Antivir AutoHotKey 7Zip 1Password Ditto Google Drive Dropbox VSCode Spotify Winamp Discord Git Firefox Chrome Greenshot (Screenshot tool) Notion GameManagers (Steam, Origin, AmazonGames, Epic, UPlay) GameSaveManager (To restore local saved games) Some media player (Potplayer, VLC, should decide) Torrent tool (qBittorrent, should decide) Slack WinDirStat Restic Backup VPN (Surfshark, NordVPN) Drivers, runtimes to install: NVidia GeForce Java runtime Razr keyboard, mouse drivers Steelseries arctis 7 driver Steps before re-installing Windows Manually trigger last restic backup Sync Drives (Firefox account, Google Drive, Dropbox) Manually copy media folders to a backup location /Users/&amp;lt;user&amp;gt;Documents /Users/&amp;lt;user&amp;gt;Pictures /Users/&amp;lt;user&amp;gt;Desktop /Users/&amp;lt;user&amp;gt;Downloads Manually take screenshots of Dota Settings screens Backup saved games through GameSave-Manager Backup Steam games to a Library folder on another disk if it&amp;rsquo;s in C: Push git folders Prepare Windows installation USB using Installation Media Creation Tool </description>
+    </item>
+    
+  </channel>
+</rss>
