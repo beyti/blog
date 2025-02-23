@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>setup on beytan.net</title><link>https://www.beytan.net/tags/setup/</link><description>Recent content in setup on beytan.net</description><generator>Hugo -- gohugo.io</generator><language>tr-tr</language><lastBuildDate>Sat, 18 Mar 2023 21:10:32 +0300</lastBuildDate><atom:link href="https://www.beytan.net/tags/setup/index.xml" rel="self" type="application/rss+xml"/><item><title>Desktop Pc Setup</title><link>https://www.beytan.net/posts/customization/desktop-pc-setup/</link><pubDate>Sat, 18 Mar 2023 21:10:32 +0300</pubDate><guid>https://www.beytan.net/posts/customization/desktop-pc-setup/</guid><description>Tools to install: Avira Antivir AutoHotKey 7Zip 1Password Ditto Google Drive Dropbox VSCode Spotify Winamp Discord Git Firefox Chrome Greenshot (Screenshot tool) Notion GameManagers (Steam, Origin, AmazonGames, Epic, UPlay) GameSaveManager (To restore local saved games) Some media player (Potplayer, VLC, should decide) Torrent tool (qBittorrent, should decide) Slack WinDirStat Restic Backup VPN (Surfshark, NordVPN) Drivers, runtimes to install: NVidia GeForce Java runtime Razr keyboard, mouse drivers Steelseries arctis 7 driver Steps before re-installing Windows Manually trigger last restic backup Sync Drives (Firefox account, Google Drive, Dropbox) Manually copy media folders to a backup location /Users/&amp;lt;user&amp;gt;Documents /Users/&amp;lt;user&amp;gt;Pictures /Users/&amp;lt;user&amp;gt;Desktop /Users/&amp;lt;user&amp;gt;Downloads Manually take screenshots of Dota Settings screens Backup saved games through GameSave-Manager Backup Steam games to a Library folder on another disk if it&amp;rsquo;s in C: Push git folders Prepare Windows installation USB using Installation Media Creation Tool</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Setup on beytan.net</title><link>https://www.beytan.net/tags/setup/</link><description>Recent content in Setup on beytan.net</description><generator>Hugo -- gohugo.io</generator><language>tr-tr</language><lastBuildDate>Sat, 18 Mar 2023 21:10:32 +0300</lastBuildDate><atom:link href="https://www.beytan.net/tags/setup/index.xml" rel="self" type="application/rss+xml"/><item><title>Desktop Pc Setup</title><link>https://www.beytan.net/posts/customization/desktop-pc-setup/</link><pubDate>Sat, 18 Mar 2023 21:10:32 +0300</pubDate><guid>https://www.beytan.net/posts/customization/desktop-pc-setup/</guid><description>&lt;h1 id="tools-to-install">Tools to install:&lt;/h1>
+&lt;ul>
+&lt;li>Avira Antivir&lt;/li>
+&lt;li>AutoHotKey&lt;/li>
+&lt;li>7Zip&lt;/li>
+&lt;li>1Password&lt;/li>
+&lt;li>Ditto&lt;/li>
+&lt;li>Google Drive&lt;/li>
+&lt;li>Dropbox&lt;/li>
+&lt;li>VSCode&lt;/li>
+&lt;li>Spotify&lt;/li>
+&lt;li>Winamp&lt;/li>
+&lt;li>Discord&lt;/li>
+&lt;li>Git&lt;/li>
+&lt;li>Firefox&lt;/li>
+&lt;li>Chrome&lt;/li>
+&lt;li>Greenshot (Screenshot tool)&lt;/li>
+&lt;li>Notion&lt;/li>
+&lt;li>GameManagers (Steam, Origin, AmazonGames, Epic, UPlay)&lt;/li>
+&lt;li>GameSaveManager (To restore local saved games)&lt;/li>
+&lt;li>Some media player (Potplayer, VLC, should decide)&lt;/li>
+&lt;li>Torrent tool (qBittorrent, should decide)&lt;/li>
+&lt;li>Slack&lt;/li>
+&lt;li>WinDirStat&lt;/li>
+&lt;li>Restic Backup&lt;/li>
+&lt;li>VPN (Surfshark, NordVPN)&lt;/li>
+&lt;/ul>
+&lt;h1 id="drivers-runtimes-to-install">Drivers, runtimes to install:&lt;/h1>
+&lt;ul>
+&lt;li>NVidia GeForce&lt;/li>
+&lt;li>Java runtime&lt;/li>
+&lt;li>Razr keyboard, mouse drivers&lt;/li>
+&lt;li>Steelseries arctis 7 driver&lt;/li>
+&lt;/ul>
+&lt;h1 id="steps-before-re-installing-windows">Steps before re-installing Windows&lt;/h1>
+&lt;ol>
+&lt;li>Manually trigger last restic backup&lt;/li>
+&lt;li>Sync Drives (Firefox account, Google Drive, Dropbox)&lt;/li>
+&lt;li>Manually copy media folders to a backup location
+&lt;ol>
+&lt;li>/Users/&amp;lt;user&amp;gt;Documents&lt;/li>
+&lt;li>/Users/&amp;lt;user&amp;gt;Pictures&lt;/li>
+&lt;li>/Users/&amp;lt;user&amp;gt;Desktop&lt;/li>
+&lt;li>/Users/&amp;lt;user&amp;gt;Downloads&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Manually take screenshots of Dota Settings screens&lt;/li>
+&lt;li>Backup saved games through GameSave-Manager&lt;/li>
+&lt;li>Backup Steam games to a Library folder on another disk if it&amp;rsquo;s in C:&lt;/li>
+&lt;li>Push git folders&lt;/li>
+&lt;li>Prepare Windows installation USB using Installation Media Creation Tool&lt;/li>
+&lt;/ol></description></item></channel></rss>
