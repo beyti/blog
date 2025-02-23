@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Customization on beytan.net</title>
-    <link>https://www.beytan.net/categories/customization/</link>
+    <link>http://localhost:1313/categories/customization/</link>
     <description>Recent content in Customization on beytan.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Sun, 19 Mar 2023 15:23:50 +0300</lastBuildDate><atom:link href="https://www.beytan.net/categories/customization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Mar 2023 15:23:50 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/customization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Delete Additional Keyboard on Windows10</title>
-      <link>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</link>
+      <link>http://localhost:1313/posts/customization/delete-additional-keyboard-on-windows10/</link>
       <pubDate>Sun, 19 Mar 2023 15:23:50 +0300</pubDate>
       
-      <guid>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</guid>
+      <guid>http://localhost:1313/posts/customization/delete-additional-keyboard-on-windows10/</guid>
       <description>&lt;h1 id=&#34;why-the-need&#34;&gt;Why the need?&lt;/h1&gt;
 &lt;h2 id=&#34;why-the-keyboard-layout&#34;&gt;Why the Keyboard Layout&lt;/h2&gt;
 &lt;p&gt;Anyone with a non-english country probably has one or more languages and probably their respective keyboard layouts available to them.&lt;br&gt;
@@ -26,10 +26,10 @@ Details of the bug is here: &lt;a href=&#34;https://answers.microsoft.com/en-us/
     
     <item>
       <title>Desktop Pc Setup</title>
-      <link>https://www.beytan.net/posts/customization/desktop-pc-setup/</link>
+      <link>http://localhost:1313/posts/customization/desktop-pc-setup/</link>
       <pubDate>Sat, 18 Mar 2023 21:10:32 +0300</pubDate>
       
-      <guid>https://www.beytan.net/posts/customization/desktop-pc-setup/</guid>
+      <guid>http://localhost:1313/posts/customization/desktop-pc-setup/</guid>
       <description>&lt;h1 id=&#34;tools-to-install&#34;&gt;Tools to install:&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Avira Antivir&lt;/li&gt;

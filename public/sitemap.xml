@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.beytan.net/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/tags/existentialism/</loc>
+    <loc>http://localhost:1313/tags/existentialism/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/categories/pysch/</loc>
+    <loc>http://localhost:1313/categories/pysch/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/tags/stutz/</loc>
+    <loc>http://localhost:1313/tags/stutz/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/posts/pysch/stutz/</loc>
+    <loc>http://localhost:1313/posts/pysch/stutz/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/tags/therapy/</loc>
+    <loc>http://localhost:1313/tags/therapy/</loc>
     <lastmod>2023-09-20T11:00:08+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/categories/customization/</loc>
+    <loc>http://localhost:1313/categories/customization/</loc>
     <lastmod>2023-03-19T15:23:50+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</loc>
+    <loc>http://localhost:1313/posts/customization/delete-additional-keyboard-on-windows10/</loc>
     <lastmod>2023-03-19T15:23:50+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/tags/dev/</loc>
+    <loc>http://localhost:1313/tags/dev/</loc>
     <lastmod>2023-03-19T15:23:50+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/tags/keyboard/</loc>
+    <loc>http://localhost:1313/tags/keyboard/</loc>
     <lastmod>2023-03-19T15:23:50+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/tags/utility/</loc>
+    <loc>http://localhost:1313/tags/utility/</loc>
     <lastmod>2023-03-19T15:23:50+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/tags/windows/</loc>
+    <loc>http://localhost:1313/tags/windows/</loc>
     <lastmod>2023-03-19T15:23:50+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/tags/desktop-pc/</loc>
+    <loc>http://localhost:1313/tags/desktop-pc/</loc>
     <lastmod>2023-03-18T21:10:32+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/posts/customization/desktop-pc-setup/</loc>
+    <loc>http://localhost:1313/posts/customization/desktop-pc-setup/</loc>
     <lastmod>2023-03-18T21:10:32+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/tags/setup/</loc>
+    <loc>http://localhost:1313/tags/setup/</loc>
     <lastmod>2023-03-18T21:10:32+03:00</lastmod>
   </url><url>
-    <loc>https://www.beytan.net/posts/initial/</loc>
+    <loc>http://localhost:1313/posts/initial/</loc>
     <lastmod>2022-04-27T03:40:48+03:00</lastmod>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Desktop Pc on beytan.net</title>
-    <link>https://www.beytan.net/tags/desktop-pc/</link>
+    <link>http://localhost:1313/tags/desktop-pc/</link>
     <description>Recent content in Desktop Pc on beytan.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Sat, 18 Mar 2023 21:10:32 +0300</lastBuildDate><atom:link href="https://www.beytan.net/tags/desktop-pc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Mar 2023 21:10:32 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/desktop-pc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desktop Pc Setup</title>
-      <link>https://www.beytan.net/posts/customization/desktop-pc-setup/</link>
+      <link>http://localhost:1313/posts/customization/desktop-pc-setup/</link>
       <pubDate>Sat, 18 Mar 2023 21:10:32 +0300</pubDate>
       
-      <guid>https://www.beytan.net/posts/customization/desktop-pc-setup/</guid>
+      <guid>http://localhost:1313/posts/customization/desktop-pc-setup/</guid>
       <description>&lt;h1 id=&#34;tools-to-install&#34;&gt;Tools to install:&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Avira Antivir&lt;/li&gt;
