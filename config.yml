@@ -23,6 +23,10 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
+    - identifier: Music
+      name: Music
+      url: /music/
+      weight: 15
     - name: Categories
       url: categories/
       weight: 20

@@ -6,7 +6,26 @@
     <description>Recent content on beytan.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Wed, 20 Sep 2023 11:00:08 +0300</lastBuildDate><atom:link href="https://www.beytan.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Feb 2025 21:00:38 +0000</lastBuildDate><atom:link href="https://www.beytan.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time Signatures</title>
+      <link>https://www.beytan.net/music/learn-guitar/time-signatures/</link>
+      <pubDate>Sun, 23 Feb 2025 21:00:38 +0000</pubDate>
+      
+      <guid>https://www.beytan.net/music/learn-guitar/time-signatures/</guid>
+      <description>101 about time signatures on music</description>
+    </item>
+    
+    <item>
+      <title>Music starts</title>
+      <link>https://www.beytan.net/music/initial/</link>
+      <pubDate>Sun, 23 Feb 2025 20:50:00 +0300</pubDate>
+      
+      <guid>https://www.beytan.net/music/initial/</guid>
+      <description>&lt;h1 id=&#34;hello-music&#34;&gt;hello music&lt;/h1&gt;
+&lt;p&gt;They who dance are thought mad by those who hear not the music.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Stutz</title>
       <link>https://www.beytan.net/posts/pysch/stutz/</link>
