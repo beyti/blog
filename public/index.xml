@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>beytan.net</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.beytan.net/</link>
     <description>Recent content on beytan.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Wed, 20 Sep 2023 11:00:08 +0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Sep 2023 11:00:08 +0300</lastBuildDate><atom:link href="https://www.beytan.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stutz</title>
-      <link>http://localhost:1313/posts/pysch/stutz/</link>
+      <link>https://www.beytan.net/posts/pysch/stutz/</link>
       <pubDate>Wed, 20 Sep 2023 11:00:08 +0300</pubDate>
       
-      <guid>http://localhost:1313/posts/pysch/stutz/</guid>
+      <guid>https://www.beytan.net/posts/pysch/stutz/</guid>
       <description>&lt;h1 id=&#34;a-netflix-movie-called-stutz&#34;&gt;A Netflix movie called Stutz&lt;/h1&gt;
 &lt;p&gt;It is a soft documentary about a psychiatrist, Phil Stutz.
 Documentary successfully depicts Stutz&amp;rsquo;s methods on with his catchy symbolic sketchs and namings for which I&amp;rsquo;ve understood as existentialism based psych therapy.&lt;/p&gt;
@@ -22,10 +22,10 @@ Documentary successfully depicts Stutz&amp;rsquo;s methods on with his catchy sy
     
     <item>
       <title>Delete Additional Keyboard on Windows10</title>
-      <link>http://localhost:1313/posts/customization/delete-additional-keyboard-on-windows10/</link>
+      <link>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</link>
       <pubDate>Sun, 19 Mar 2023 15:23:50 +0300</pubDate>
       
-      <guid>http://localhost:1313/posts/customization/delete-additional-keyboard-on-windows10/</guid>
+      <guid>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</guid>
       <description>&lt;h1 id=&#34;why-the-need&#34;&gt;Why the need?&lt;/h1&gt;
 &lt;h2 id=&#34;why-the-keyboard-layout&#34;&gt;Why the Keyboard Layout&lt;/h2&gt;
 &lt;p&gt;Anyone with a non-english country probably has one or more languages and probably their respective keyboard layouts available to them.&lt;br&gt;
@@ -39,10 +39,10 @@ Details of the bug is here: &lt;a href=&#34;https://answers.microsoft.com/en-us/
     
     <item>
       <title>Desktop Pc Setup</title>
-      <link>http://localhost:1313/posts/customization/desktop-pc-setup/</link>
+      <link>https://www.beytan.net/posts/customization/desktop-pc-setup/</link>
       <pubDate>Sat, 18 Mar 2023 21:10:32 +0300</pubDate>
       
-      <guid>http://localhost:1313/posts/customization/desktop-pc-setup/</guid>
+      <guid>https://www.beytan.net/posts/customization/desktop-pc-setup/</guid>
       <description>&lt;h1 id=&#34;tools-to-install&#34;&gt;Tools to install:&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Avira Antivir&lt;/li&gt;
@@ -99,10 +99,10 @@ Details of the bug is here: &lt;a href=&#34;https://answers.microsoft.com/en-us/
     
     <item>
       <title>Initial</title>
-      <link>http://localhost:1313/posts/initial/</link>
+      <link>https://www.beytan.net/posts/initial/</link>
       <pubDate>Wed, 27 Apr 2022 03:40:48 +0300</pubDate>
       
-      <guid>http://localhost:1313/posts/initial/</guid>
+      <guid>https://www.beytan.net/posts/initial/</guid>
       <description>&lt;h1 id=&#34;hello-darkness&#34;&gt;hello darkness&lt;/h1&gt;
 &lt;p&gt;my old friend&lt;br&gt;
 I&amp;rsquo;ve come to talk to you again&lt;/p&gt;</description>
