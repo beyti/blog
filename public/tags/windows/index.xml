@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>windows on beytan.net</title>
+    <title>Windows on beytan.net</title>
     <link>https://www.beytan.net/tags/windows/</link>
-    <description>Recent content in windows on beytan.net</description>
+    <description>Recent content in Windows on beytan.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <lastBuildDate>Sun, 19 Mar 2023 15:23:50 +0300</lastBuildDate><atom:link href="https://www.beytan.net/tags/windows/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,15 @@
       <pubDate>Sun, 19 Mar 2023 15:23:50 +0300</pubDate>
       
       <guid>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</guid>
-      <description>Why the need? Why the Keyboard Layout Anyone with a non-english country probably has one or more languages and probably their respective keyboard layouts available to them.
-In Turkey, we have a Turkish-Q keyboard layout and our keyboards are mostly in this layout as hardware.
-Here is a quick glance of how it is, thanks to Microsoft: https://learn.microsoft.com/en-us/globalization/keyboards/kbdtuq.html
-What has changed in Windows10 You used to delete this additional keyboard layout so that it just doesn&amp;rsquo;t switch from one to the other during your usage.</description>
+      <description>&lt;h1 id=&#34;why-the-need&#34;&gt;Why the need?&lt;/h1&gt;
+&lt;h2 id=&#34;why-the-keyboard-layout&#34;&gt;Why the Keyboard Layout&lt;/h2&gt;
+&lt;p&gt;Anyone with a non-english country probably has one or more languages and probably their respective keyboard layouts available to them.&lt;br&gt;
+In Turkey, we have a Turkish-Q keyboard layout and our keyboards are mostly in this layout as hardware.&lt;br&gt;
+Here is a quick glance of how it is, thanks to Microsoft: &lt;a href=&#34;https://learn.microsoft.com/en-us/globalization/keyboards/kbdtuq.html&#34;&gt;https://learn.microsoft.com/en-us/globalization/keyboards/kbdtuq.html&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-has-changed-in-windows10&#34;&gt;What has changed in Windows10&lt;/h2&gt;
+&lt;p&gt;You used to delete this additional keyboard layout so that it just doesn&amp;rsquo;t switch from one to the other during your usage.&lt;br&gt;
+It seems there&amp;rsquo;s a bug in Windows so you can&amp;rsquo;t do what you&amp;rsquo;ve been able to do previously.&lt;br&gt;
+Details of the bug is here: &lt;a href=&#34;https://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings/unable-to-remove-a-language-from-windows-10-april/47c13ea5-79ed-4a29-96d4-47d1264b6838&#34;&gt;https://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings/unable-to-remove-a-language-from-windows-10-april/47c13ea5-79ed-4a29-96d4-47d1264b6838&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
