@@ -36,4 +36,4 @@ menu:
       weight: 20
     - name: Tags
       url: tags/
-      weight: 30
+      weight: 31
