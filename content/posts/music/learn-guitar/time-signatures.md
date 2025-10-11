@@ -11,8 +11,8 @@ categories: ["music", "learning"]
 From the book ["Speed Mechanics For Lead Guitar" by "Troy Stetina"](https://amzn.eu/d/0lOWmDL), below intro will help to read materials properly.
 These are for demo only, please purchase the book if it is useful.
 
-1. {{< figure src=/music/learn-guitar/1.png alt="1" >}}
-2. {{< figure src=/music/learn-guitar/2.png alt="2" >}}
+1. {{< figure src=/posts/music/learn-guitar/1.png alt="1" >}}
+2. {{< figure src=/posts/music/learn-guitar/2.png alt="2" >}}
 
 ## Links to watch
 
