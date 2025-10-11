@@ -8,14 +8,14 @@ enableRobotsTXT: true
 params:
   env: production
   homeInfoParams:
-      Title: beytan.net
-      Content: personal blog for me, myself and my lack of memory
+    Title: beytan.net
+    Content: personal blog for me, myself and my lack of memory
 
   socialIcons:
-      - name: twitter
-        url: "https://twitter.com/239826"
-      - name: github
-        url: "https://github.com/beyti"
+    - name: twitter
+      url: "https://twitter.com/239826"
+    - name: github
+      url: "https://github.com/beyti"
 
 menu:
   main:
@@ -25,8 +25,12 @@ menu:
       weight: 10
     - identifier: Music
       name: Music
-      url: /music/
+      url: /categories/music/
       weight: 15
+    - identifier: Code
+      name: Code
+      url: /categories/code/
+      weight: 18
     - name: Categories
       url: categories/
       weight: 20

@@ -4,14 +4,14 @@
     <title>Setup on beytan.net</title>
     <link>https://www.beytan.net/tags/setup/</link>
     <description>Recent content in Setup on beytan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Sat, 18 Mar 2023 21:10:32 +0300</lastBuildDate><atom:link href="https://www.beytan.net/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Mar 2023 21:10:32 +0300</lastBuildDate>
+    <atom:link href="https://www.beytan.net/tags/setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desktop Pc Setup</title>
       <link>https://www.beytan.net/posts/customization/desktop-pc-setup/</link>
       <pubDate>Sat, 18 Mar 2023 21:10:32 +0300</pubDate>
-      
       <guid>https://www.beytan.net/posts/customization/desktop-pc-setup/</guid>
       <description>&lt;h1 id=&#34;tools-to-install&#34;&gt;Tools to install:&lt;/h1&gt;
 &lt;ul&gt;
@@ -66,6 +66,5 @@
 &lt;li&gt;Prepare Windows installation USB using Installation Media Creation Tool&lt;/li&gt;
 &lt;/ol&gt;</description>
     </item>
-    
   </channel>
 </rss>

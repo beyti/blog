@@ -4,14 +4,31 @@
     <title>Posts on beytan.net</title>
     <link>https://www.beytan.net/posts/</link>
     <description>Recent content in Posts on beytan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Wed, 20 Sep 2023 11:00:08 +0300</lastBuildDate><atom:link href="https://www.beytan.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Oct 2025 21:49:10 +0300</lastBuildDate>
+    <atom:link href="https://www.beytan.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vibe</title>
+      <link>https://www.beytan.net/posts/code/vibe/</link>
+      <pubDate>Sat, 11 Oct 2025 21:49:10 +0300</pubDate>
+      <guid>https://www.beytan.net/posts/code/vibe/</guid>
+      <description>&lt;h1 id=&#34;when-to-vibe&#34;&gt;When to Vibe&lt;/h1&gt;
+&lt;p&gt;Basically, when in doubt, &lt;strong&gt;Vibe&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;But if you know what you are doing, better to be specific for the scope to be assisted.&lt;/p&gt;
+&lt;p&gt;Cursor, ChatGPT, Claude Code; all there to help. And sure they are amazing if you know how to.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Time Signatures</title>
+      <link>https://www.beytan.net/posts/music/learn-guitar/time-signatures/</link>
+      <pubDate>Sun, 23 Feb 2025 21:00:38 +0000</pubDate>
+      <guid>https://www.beytan.net/posts/music/learn-guitar/time-signatures/</guid>
+      <description>101 about time signatures on music</description>
+    </item>
     <item>
       <title>Stutz</title>
       <link>https://www.beytan.net/posts/pysch/stutz/</link>
       <pubDate>Wed, 20 Sep 2023 11:00:08 +0300</pubDate>
-      
       <guid>https://www.beytan.net/posts/pysch/stutz/</guid>
       <description>&lt;h1 id=&#34;a-netflix-movie-called-stutz&#34;&gt;A Netflix movie called Stutz&lt;/h1&gt;
 &lt;p&gt;It is a soft documentary about a psychiatrist, Phil Stutz.
@@ -19,12 +36,10 @@ Documentary successfully depicts Stutz&amp;rsquo;s methods on with his catchy sy
 &lt;h1 id=&#34;why-watch-it&#34;&gt;Why watch it&lt;/h1&gt;
 &lt;p&gt;Well, it is easy to absorb content about useful and practical methodologies to deal with lots of existial obstacles a lot of folks (like me) constantly has to deal with. Plus, Phil is really heart warming and genuine, even from the digital screen you watch him, which makes you feel warm when watching.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Delete Additional Keyboard on Windows10</title>
       <link>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</link>
       <pubDate>Sun, 19 Mar 2023 15:23:50 +0300</pubDate>
-      
       <guid>https://www.beytan.net/posts/customization/delete-additional-keyboard-on-windows10/</guid>
       <description>&lt;h1 id=&#34;why-the-need&#34;&gt;Why the need?&lt;/h1&gt;
 &lt;h2 id=&#34;why-the-keyboard-layout&#34;&gt;Why the Keyboard Layout&lt;/h2&gt;
@@ -36,12 +51,10 @@ Here is a quick glance of how it is, thanks to Microsoft: &lt;a href=&#34;https:
 It seems there&amp;rsquo;s a bug in Windows so you can&amp;rsquo;t do what you&amp;rsquo;ve been able to do previously.&lt;br&gt;
 Details of the bug is here: &lt;a href=&#34;https://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings/unable-to-remove-a-language-from-windows-10-april/47c13ea5-79ed-4a29-96d4-47d1264b6838&#34;&gt;https://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings/unable-to-remove-a-language-from-windows-10-april/47c13ea5-79ed-4a29-96d4-47d1264b6838&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Desktop Pc Setup</title>
       <link>https://www.beytan.net/posts/customization/desktop-pc-setup/</link>
       <pubDate>Sat, 18 Mar 2023 21:10:32 +0300</pubDate>
-      
       <guid>https://www.beytan.net/posts/customization/desktop-pc-setup/</guid>
       <description>&lt;h1 id=&#34;tools-to-install&#34;&gt;Tools to install:&lt;/h1&gt;
 &lt;ul&gt;
@@ -96,17 +109,14 @@ Details of the bug is here: &lt;a href=&#34;https://answers.microsoft.com/en-us/
 &lt;li&gt;Prepare Windows installation USB using Installation Media Creation Tool&lt;/li&gt;
 &lt;/ol&gt;</description>
     </item>
-    
     <item>
       <title>Initial</title>
       <link>https://www.beytan.net/posts/initial/</link>
       <pubDate>Wed, 27 Apr 2022 03:40:48 +0300</pubDate>
-      
       <guid>https://www.beytan.net/posts/initial/</guid>
       <description>&lt;h1 id=&#34;hello-darkness&#34;&gt;hello darkness&lt;/h1&gt;
 &lt;p&gt;my old friend&lt;br&gt;
 I&amp;rsquo;ve come to talk to you again&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

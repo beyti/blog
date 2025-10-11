@@ -4,17 +4,16 @@
     <title>Learning on beytan.net</title>
     <link>https://www.beytan.net/categories/learning/</link>
     <description>Recent content in Learning on beytan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Sun, 23 Feb 2025 21:00:38 +0000</lastBuildDate><atom:link href="https://www.beytan.net/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Feb 2025 21:00:38 +0000</lastBuildDate>
+    <atom:link href="https://www.beytan.net/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Time Signatures</title>
-      <link>https://www.beytan.net/music/learn-guitar/time-signatures/</link>
+      <link>https://www.beytan.net/posts/music/learn-guitar/time-signatures/</link>
       <pubDate>Sun, 23 Feb 2025 21:00:38 +0000</pubDate>
-      
-      <guid>https://www.beytan.net/music/learn-guitar/time-signatures/</guid>
+      <guid>https://www.beytan.net/posts/music/learn-guitar/time-signatures/</guid>
       <description>101 about time signatures on music</description>
     </item>
-    
   </channel>
 </rss>
